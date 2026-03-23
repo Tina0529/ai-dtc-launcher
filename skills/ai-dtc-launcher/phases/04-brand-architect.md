@@ -58,17 +58,7 @@ AI 分析 Prompt：
 
 #### 1.3 审美标签匹配
 
-**操作**：加载 `engines/persona-brand-matcher.md` 的审美标签库进行匹配。
-
-> 如果 `engines/persona-brand-matcher.md` 尚未创建，使用以下简化匹配：
-
-根据画像标签匹配审美偏好：
-
-| 画像标签 | 审美偏好 | 品牌调性方向 | 视觉风格方向 |
-|---------|---------|------------|------------|
-| {tag_1} | {aesthetic_1} | {tone_1} | {visual_1} |
-| {tag_2} | {aesthetic_2} | {tone_2} | {visual_2} |
-| ... | ... | ... | ... |
+**操作**：加载 `engines/persona-brand-matcher.md` 的审美标签库，执行完整匹配流程。
 
 ---
 

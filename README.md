@@ -80,7 +80,7 @@ claude plugin install ./ai-dtc-launcher
 
 | 市场 | 趋势数据源 | 电商平台 | 供应链 | 投放渠道 |
 |------|-----------|---------|--------|---------|
-| **中国** (首选) | 百度指数/微信指数/抖音搜索 | 淘宝/拼多多/微信小商店 | 1688 | DOU+/视频号推广/巨量千川 |
+| **中国** (首选) | 百度指数/微信指数/抖音搜索 | 淘宝/拼多多/视频号小店 | 1688 | DOU+/视频号推广/巨量千川 |
 | **日本** (扩展) | Yahoo! Japan/楽天/YouTube JP | Amazon JP/楽天/BASE | Alibaba JP | TikTok Ads JP/Yahoo! 広告 |
 | **全球** (参考) | Google Trends/TikTok Global | Amazon/Shopify | Alibaba.com | TikTok Ads/Meta Ads |
 
