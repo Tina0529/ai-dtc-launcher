@@ -128,17 +128,21 @@ ai-dtc-launcher/
 
 以下 Skill 会在对应阶段被自动调用（需提前安装）：
 
-| Skill | 用途 | 必需? |
-|-------|------|------|
-| `ecommerce-searcher` | 电商平台产品搜索和评论采集 | 推荐 |
-| `amazon-japan-shopping` | Amazon JP 产品研究（日本市场） | 可选 |
-| `gemini-imagegen` | Mood board + 产品效果图生成 | 推荐 |
-| `content-scoring` | 内容质量评分和优化 | 推荐 |
-| `ai-video-maker` | 短视频内容自动生产 | 推荐 |
-| `bilibili-uploader` | B站自动发布 | 可选 |
-| `wechat-channels-publisher` | 微信视频号自动发布 | 可选 |
-| `growth-hacker` | AARRR 增长指标框架 | 可选 |
-| `campaign-memory` | 项目持久化追踪 | 推荐 |
+| Skill | 用途 | 必需? | 来源 |
+|-------|------|------|------|
+| `ecommerce-searcher` | 电商平台产品搜索和评论采集 | 推荐 | sparticle-toolkit |
+| `amazon-japan-shopping` | Amazon JP 产品研究（日本市场） | 可选 | sparticle-toolkit |
+| `gemini-imagegen` | Mood board + 产品效果图生成 | 推荐 | compound-engineering |
+| `content-scoring` | 内容质量评分和优化 | 推荐 | sparticle-toolkit |
+| `ai-video-maker` | 短视频内容自动生产 | 推荐 | sparticle-toolkit |
+| `bilibili-uploader` | B站自动发布 | 可选 | sparticle-toolkit |
+| `wechat-channels-publisher` | 微信视频号自动发布 | 可选 | sparticle-toolkit |
+| `growth-hacker` | AARRR 增长指标框架 | 可选 | sparticle-toolkit |
+| `campaign-memory` | 项目持久化追踪 | 推荐 | sparticle-toolkit |
+| **`pricing-psychology`** | **定价心理学（锚定/魅力定价/诱饵效应等9大原则）** | **推荐** | **ClawHub** |
+| **`competitor-analyst`** | **结构化竞品分析框架（6步分析法）** | **推荐** | **ClawHub** |
+| **`tiktok-growth`** | **TikTok/抖音 Hook 公式 + 爆款脚本结构** | **推荐** | **ClawHub** |
+| `sourcing-in-china` | Made-in-China.com 供应商搜索（补充 1688） | 可选 | ClawHub |
 
 ## 预计执行时间
 
