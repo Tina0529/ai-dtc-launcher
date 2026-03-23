@@ -28,11 +28,12 @@
 将此插件添加到 Claude Code：
 
 ```bash
-# 方式 1: 从本地路径
-claude plugin install ./sparticle-plugins/ai-dtc-launcher
+# 从 GitHub 安装
+claude plugin install https://github.com/Tina0529/ai-dtc-launcher
 
-# 方式 2: 如果在 sparticle-toolkit 市场中
-# 已自动包含
+# 或克隆到本地后安装
+git clone https://github.com/Tina0529/ai-dtc-launcher.git
+claude plugin install ./ai-dtc-launcher
 ```
 
 ### 使用
